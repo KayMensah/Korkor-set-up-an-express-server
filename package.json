@@ -1,0 +1,17 @@
+{
+  "name": "banks-api",
+  "version": "1.0.0",
+  "description": "Banks API",
+  "main": "index.js",
+  "author": "Korkor Mensah",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
